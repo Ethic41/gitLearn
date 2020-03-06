@@ -14,4 +14,6 @@
 **To unstage changes:** *git reset HEAD item_to_unstage*  
 **To discard changes:** *git checkout -- item_to_discard*
 **To check status** *git status*  
+**For more details on status** *git diff*  
+**For status on staged files** *git diff --staged*  
 **To commit changes:** *git commit -m "your_commit_message"*  
